@@ -7,9 +7,9 @@ public class Question1 {
 		System.out.print("Password:");
 		String password=input.nextLine();
 		if(password.equals("12345"))
-			System.out.println("Giriþ Baþarýlý");
+			System.out.println("Giris Basarili");
 		else
-			System.out.println("Giriþ Baþarýsýz");
+			System.out.println("Giris Basarisis");
 	}
 
 }
