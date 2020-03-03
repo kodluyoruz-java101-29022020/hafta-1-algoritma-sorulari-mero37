@@ -7,9 +7,9 @@ public class Question5 {
 		for (int i=0;i<100;i++) {
 			array[i]=r.nextInt(100)+1;
 			if(array[i]%2==0)
-				System.out.println((i+1)+".sayý: "+array[i]+" - Çift");
+				System.out.println((i+1)+".sayi: "+array[i]+" - Ã‡ift");
 			else
-				System.out.println((i+1)+".sayý: "+array[i]+" - Tek");
+				System.out.println((i+1)+".sayi: "+array[i]+" - Tek");
 		}
 	}
 }
